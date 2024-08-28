@@ -1,0 +1,25 @@
+Server/node_modules
+
+
+# dependencies
+weather/node_modules
+weather/.pnp
+weather.pnp.js
+
+# testing
+weather/coverage
+
+# production
+weather/build
+
+# misc
+weather.DS_Store
+weather.env.local
+weather.env.development.local
+weather.env.test.local
+weather.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
